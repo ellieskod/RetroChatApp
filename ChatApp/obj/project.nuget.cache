@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "dgSpecHash": "xBzZL1JNn2Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\46737\\Documents\\GitHub\\ChatApp\\ChatApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\46737\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\46737\\.nuget\\packages\\microsoft.aspnetcore.signalr\\1.2.13\\microsoft.aspnetcore.signalr.1.2.13.nupkg.sha512",
+    "C:\\Users\\46737\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference Microsoft.AspNetCore.SignalR will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "C:\\Users\\46737\\Documents\\GitHub\\ChatApp\\ChatApp.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\46737\\Documents\\GitHub\\ChatApp\\ChatApp.csproj",
+      "libraryId": "Microsoft.AspNetCore.SignalR",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "C:\\Users\\46737\\Documents\\GitHub\\ChatApp\\ChatApp.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\46737\\Documents\\GitHub\\ChatApp\\ChatApp.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

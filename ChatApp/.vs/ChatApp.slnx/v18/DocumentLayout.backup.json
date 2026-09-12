@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\46737\\Documents\\GitHub\\ChatApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF3D0F9-052B-4B62-98AE-BEE74E28E0D2}|ChatApp.csproj|c:\\users\\46737\\documents\\github\\chatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF3D0F9-052B-4B62-98AE-BEE74E28E0D2}|ChatApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF3D0F9-052B-4B62-98AE-BEE74E28E0D2}|ChatApp.csproj|c:\\users\\46737\\documents\\github\\chatapp\\chatapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{AAF3D0F9-052B-4B62-98AE-BEE74E28E0D2}|ChatApp.csproj|solutionrelative:chatapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF3D0F9-052B-4B62-98AE-BEE74E28E0D2}|ChatApp.csproj|c:\\users\\46737\\documents\\github\\chatapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AAF3D0F9-052B-4B62-98AE-BEE74E28E0D2}|ChatApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF3D0F9-052B-4B62-98AE-BEE74E28E0D2}|ChatApp.csproj|c:\\users\\46737\\documents\\github\\chatapp\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF3D0F9-052B-4B62-98AE-BEE74E28E0D2}|ChatApp.csproj|solutionrelative:hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF3D0F9-052B-4B62-98AE-BEE74E28E0D2}|ChatApp.csproj|c:\\users\\46737\\documents\\github\\chatapp\\dataservice\\shareddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF3D0F9-052B-4B62-98AE-BEE74E28E0D2}|ChatApp.csproj|solutionrelative:dataservice\\shareddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF3D0F9-052B-4B62-98AE-BEE74E28E0D2}|ChatApp.csproj|c:\\users\\46737\\documents\\github\\chatapp\\models\\userconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF3D0F9-052B-4B62-98AE-BEE74E28E0D2}|ChatApp.csproj|solutionrelative:models\\userconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF3D0F9-052B-4B62-98AE-BEE74E28E0D2}|ChatApp.csproj|c:\\users\\46737\\documents\\github\\chatapp\\chatapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AAF3D0F9-052B-4B62-98AE-BEE74E28E0D2}|ChatApp.csproj|solutionrelative:chatapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatApp.http",
+              "DocumentMoniker": "C:\\Users\\46737\\Documents\\GitHub\\ChatApp\\ChatApp.http",
+              "RelativeDocumentMoniker": "ChatApp.http",
+              "ToolTip": "C:\\Users\\46737\\Documents\\GitHub\\ChatApp\\ChatApp.http",
+              "RelativeToolTip": "ChatApp.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-09-12T13:06:31.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\46737\\Documents\\GitHub\\ChatApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\46737\\Documents\\GitHub\\ChatApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-12T12:46:32.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatApp",
+              "DocumentMoniker": "C:\\Users\\46737\\Documents\\GitHub\\ChatApp\\ChatApp.csproj",
+              "RelativeDocumentMoniker": "ChatApp.csproj",
+              "ToolTip": "C:\\Users\\46737\\Documents\\GitHub\\ChatApp\\ChatApp.csproj",
+              "RelativeToolTip": "ChatApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-12T12:36:18.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserConnection.cs",
+              "DocumentMoniker": "C:\\Users\\46737\\Documents\\GitHub\\ChatApp\\Models\\UserConnection.cs",
+              "RelativeDocumentMoniker": "Models\\UserConnection.cs",
+              "ToolTip": "C:\\Users\\46737\\Documents\\GitHub\\ChatApp\\Models\\UserConnection.cs",
+              "RelativeToolTip": "Models\\UserConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T12:22:41.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SharedDb.cs",
+              "DocumentMoniker": "C:\\Users\\46737\\Documents\\GitHub\\ChatApp\\DataService\\SharedDb.cs",
+              "RelativeDocumentMoniker": "DataService\\SharedDb.cs",
+              "ToolTip": "C:\\Users\\46737\\Documents\\GitHub\\ChatApp\\DataService\\SharedDb.cs",
+              "RelativeToolTip": "DataService\\SharedDb.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T12:21:40.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\46737\\Documents\\GitHub\\ChatApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\46737\\Documents\\GitHub\\ChatApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAA+wA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T12:19:49.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\46737\\Documents\\GitHub\\ChatApp\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\46737\\Documents\\GitHub\\ChatApp\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "Hubs\\ChatHub.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAIA/wC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T12:19:04.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
